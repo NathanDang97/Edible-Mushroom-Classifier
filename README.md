@@ -8,7 +8,7 @@ More information about the competition can be found [here](https://www.kaggle.co
 
 ## Data Description
 
-Below is the description of each attached data files in this project. The files can be found under the Data folder in this repository.
+Below is the description of each attached data files in this project. The files can be found under the Data folder in this repository. **Note**: since the data files are large, they are compressed into .zip files instead.
 
 - train.csv - the training set containing 3116945 data points, each with 22 features
 - test.csv - the test set containing 2077964 data points
